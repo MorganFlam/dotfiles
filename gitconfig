@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = morganflamentwallin@gmail.com
+	name = Morgan Flament Wallin
